@@ -33,8 +33,7 @@ yarn start
    - ![link](public/page-link.jpg)
 3. create link
    - mind page: `<you site url>/markmap/<page id>`
-     - you can disable cache with query `?disableCache=true`
-   - api: `<you site url>/api/page2md?pageId=<page id>`
+     - default cache enabled, you can disable cache with query param `?disableCache=true`
 
 ## Env
 
